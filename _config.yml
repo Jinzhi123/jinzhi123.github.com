@@ -11,9 +11,9 @@ title                    : "Hong Liu"
 title_separator          : "-"
 name                     : &name
 description              : &description "personal description"
-url                      : https://jinzhihl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jinzhi123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jinzhi123/HongLiu.github.io"
+repository               : "Jinzhi123/jinzhi123.github.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
