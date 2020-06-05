@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hong Liu"
+title                    : "Dr. L.Jeff Hong"
 title_separator          : "-"
 name                     : &name
 description              : &description "personal description"
@@ -23,7 +23,7 @@ talkmap_link             : true #change to true to add link to talkmap on talks 
 comments:
   provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "custom", "hyvor"
   disqus:
-    shortname            : zhanksun
+    shortname            : L.Jeff Hong
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 #, e.g.: meta.discourse.org
   facebook:
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hong Liu"
   avatar           : "profile_small.jpg"
-  bio              : "Professor<br>Fudan University"
+  bio              : "Fudan Distinguished Professor<br>Hongyi Chair Professor<br>School of Management<br>School of Data Science<br>Fudan University"
   employer         :
   location         :
   pubmed           :
-  email            : "1072380495@qq.com"
+  email            : "hong_liu@fudan.edu.cn"
   googlescholar    : "https://scholar.google.com/citations?user=uzUmqc0AAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
