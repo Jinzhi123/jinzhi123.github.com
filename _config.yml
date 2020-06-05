@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhankun Sun (孫占坤)"
+title                    : "Hong Liu"
 title_separator          : "-"
 name                     : &name
 description              : &description "personal description"
-url                      : https://zhanksun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JinzhiHL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhanksun/zhanksun.github.io"
+repository               : "Jinzhi123/HongLiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhankun Sun, Kevin"
+  name             : "Hong Liu"
   avatar           : "profile_small.jpg"
-  bio              : "Assistant Professor<br>City University of Hong Kong"
+  bio              : "Professor<br>Fudan University"
   employer         :
   location         :
   pubmed           :
-  email            : "zhankun.sun@cityu.edu.hk"
+  email            : "1072380495@qq.com"
   googlescholar    : "https://scholar.google.com/citations?user=uzUmqc0AAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
