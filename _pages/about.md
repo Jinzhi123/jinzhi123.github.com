@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Management Sciences in the [College of Business](https://www.cb.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/).
+Jeff is Fudan Distinguished Professor and Hongyi Chair Professor, jointly appointed by School of Management and School of Data Science at Fudan University. He was Professor of Industrial Engineering and Logistics Management at the Hong Kong University of Science and Technology and Chair Professor of Management Sciences in College of Business at City University of Hong Kong.
 
-I hold a bachelor degree in Industrial Engineering from [Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University), and Ph.D. in Statistics and Operations Research from the [University of North Carolina at Chapel Hill](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill). I was an Eyes High postdoctoral fellow in the Haskayne School of Business, University of Calgary, Canada. During my postdoc, I work closely with [Alberta Health Services](https://www.albertahealthservices.ca/) and emergency departments in Alberta, Canada.
+Jeff’s research interests are within the broad areas of machine learning and business analytics. He is currently working on stochastic modeling, stochastic simulation, stochastic optimization, statistical learning and reinforcement learning, with applications in production management, supply-chain management, revenue management, marketing, financial risk management and healthcare analytics.
 
-My research interests are within the area of modeling, analysis, and control of stochastic systems. I am particularly interested in applications that arise from healthcare operations, such as emergency response management in the aftermath of mass-casualty events and patient flow management in hospital emergency departments.
+Jeff is currently President of INFORMS Simulation Society and Vice President of ORSC Subdivision of Financial Engineering and Risk Management. He is currently Area Editor of Operations Research, and Associate Editor of Management Science and ACM Transactions on Modeling and Computer Simulation.
 
-[comment]: # (Here is my Curriculum Vitae [\[PDF\]](https://www.dropbox.com/s/afbiukkav30uuko/CV_Zhankun_v2.pdf?dl=0).)
-<!---
-I am also a big fan of North Carolina Tar Heels ([GoHeels](https://twitter.com/GoHeels)). My favorite sports are badminton, hiking, and soccer.
---->
+Jeff has industrial experience with many companies, including Coco-Cola, Export-Import Bank of China, General Motors, Hong Kong Air Cargo Terminals, Huawei Technology, Jardine One Solution, Shanghai Stock Exchanges etc.
