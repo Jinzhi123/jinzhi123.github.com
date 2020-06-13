@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "L.Jeff Hong, Ph.D."
+title                    : "L. Jeff Hong, Ph.D."
 title_separator          : "-"
 name                     : &name
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hong Liu"
+  name             : "L. Jeff Hong"
   avatar           : "Jeff_Hong.jpg"
   bio              : "Fudan Distinguished Professor<br>School of Management & School of Data Science<br>Fudan University<br>530 Siyuan Building, 670 Guoshun Road, Yangpu, Shanghai 200433"
   employer         :
