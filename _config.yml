@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "L. Jeff Hong"
   avatar           : "Jeff_Hong.jpg"
-  bio              : "Fudan Distinguished Professor<br>School of Management & School of Data Science<br>Fudan University<br>530 Siyuan Building, 670 Guoshun Road, Yangpu, Shanghai 200433"
+  bio              : "Fudan Distinguished Professor<br>Fudan University"
   employer         :
   location         :
   pubmed           :
   email            : "hong_liu@fudan.edu.cn"
-  googlescholar    : "https://scholar.google.com/citations?user=uzUmqc0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=stZYMd8AAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # "zhankun-sun-6657831b"
-  orcid            : "https://orcid.org/0000-0002-1576-3372"
+  orcid            : "http://orcid.org/0000-0001-7011-4001"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :  "Tidal04"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
