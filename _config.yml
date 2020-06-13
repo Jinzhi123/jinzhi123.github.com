@@ -175,13 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  ongoing research:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  group:
     output: true
     permalink: /:collection/:path/
   talks:
