@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jeff is Fudan Distinguished Professor and Hongyi Chair Professor, jointly appointed by School of Management and School of Data Science at Fudan University. He was Professor of Industrial Engineering and Logistics Management at the Hong Kong University of Science and Technology and Chair Professor of Management Sciences in College of Business at City University of Hong Kong.
+Jeff is Fudan Distinguished Professor and Hongyi Chair Professor, jointly appointed by [School of Management](https://www.fdsm.fudan.edu.cn/AboutUs/index.aspx) and [School of Data Science](https://sds.fudan.edu.cn/) at Fudan University. He was Professor of Industrial Engineering and Logistics Management at the Hong Kong University of Science and Technology and Chair Professor of Management Sciences in College of Business at City University of Hong Kong.
 
 Jeff’s research interests are within the broad areas of machine learning and business analytics. He is currently working on stochastic modeling, stochastic simulation, stochastic optimization, statistical learning and reinforcement learning, with applications in production management, supply-chain management, revenue management, marketing, financial risk management and healthcare analytics.
 
