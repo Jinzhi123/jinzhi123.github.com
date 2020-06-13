@@ -7,9 +7,9 @@ author_profile: true
 
 ## Journal Papers
 
-J1. Hong, L. J., Z. Huang, and H. Lam.  Learning-based robust optimization: Procedures and statistical guarantee. _Management Science_, forthcoming.
-J2. Hong, L. J., C. Li, and J. Luo. Technical note: Finite-time regret analysis of Kiefer-Wolfowitz stochastic approximation algorithm and nonparametric multi-product dynamic pricing with unknown demand. _Naval Research Logistics_, forthcoming.
-J3.	Jiang, G., L. J. Hong, and B.  L. Nelson.  2020. Online risk monitoring using offline simulation. _INFORMS Journal on Computing_, 32:356-375.
+*J1. Hong, L. J., Z. Huang, and H. Lam.  Learning-based robust optimization: Procedures and statistical guarantee. _Management Science_, forthcoming.
+*J2. Hong, L. J., C. Li, and J. Luo. Technical note: Finite-time regret analysis of Kiefer-Wolfowitz stochastic approximation algorithm and nonparametric multi-product dynamic pricing with unknown demand. _Naval Research Logistics_, forthcoming.
+*J3. Jiang, G., L. J. Hong, and B. L. Nelson.  2020. Online risk monitoring using offline simulation. _INFORMS Journal on Computing_, 32:356-375.
 J4. Fan, W., L. J. Hong, and X. Zhang. 2020. Robust selection of the best. _Management Science_, 66:.190-208.
 J5. Hong, L. J. and G. Jiang. 2019. Offline simulation online application: A new framework of simulation-based decision making. _Asia-Pacific Journal of Operational Research_, 36:1-22.
 J6. Yun, X., L. J. Hong, G. Jiang, and S. Wang. 2019. On gamma estimation via matrix kriging. _Naval Research Logistics_, 66:393-410.
