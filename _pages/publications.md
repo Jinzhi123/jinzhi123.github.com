@@ -51,26 +51,37 @@ author_profile: true
 
 ## Refereed Conference Proceedings
 
-* <q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.
-* <q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.
-* <q>Priority Scheduling when Job Type Information is not Free</q>, with H. Ouyang.
-* <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.
+* Jiang, W. X., B. L. Nelson, and L. J. Hong. 2019. Estimating sensitivity to input model   variance.
+Proceedings of the 2019 Winter Simulation Conference, pp. 3705-3716.
+* Zhong, Y. and L. J. Hong. 2018. Fully sequential ranking and selection procedures with PAC guarantee. Proceedings of the 2018 Winter Simulation Conference, pp. 1898-1908.
+* Sun, W., Z. Hu, and L. J. Hong. 2018. Gaussian mixture model-based random  search  for continuous optimization via simulation. Proceedings of the 2018 Winter Simulation Conference, pp. 2003-2014.
+* Zhong, Y. and L. J. Hong. 2017. A new framework of designing sequential ranking-and-selection procedures. Proceedings of the 2017 Winter Simulation Conference, pp. 2237 - 2244.
+* Shen, H., L. J. Hong, and X. Zhang. 2017. Ranking and selection with covariates. Proceedings of the 2017 Winter Simulation Conference, pp. 2137 - 2148.
+* Hong, L. J., Z. Huang, and H. Lam. 2016. Approximating data-driven joint chance constrained programs via uncertainty set construction. Proceedings of the 2016 Winter Simulation Conference, pp. 389-400.
+* Jiang, G., L. J. Hong, and B. L. Nelson. 2016. A simulation analytics approach to dynamic risk monitoring. Proceedings of the 2016 Winter Simulation Conference, pp. 437-447.
+* Hong, L. J., J. Luo, and Y. Zhong. 2016. Speeding up pairwise comparisons for large scale ranking and selection. Proceedings of the 2016 Winter Simulation Conference, pp. 749-757.
+* Hong, L. J. and H. Lam. 2015. A statistical perspective on linear programs with uncertain parameters. Proceedings of the 2015 Winter Simulation Conference, pp. 3690 - 3701.
+* Song, E., B. L. Nelson, and L. J. Hong. 2015. Input uncertainty and indifference-zone ranking and selection. Proceedings of the 2015 Winter Simulation Conference, pp. 414 - 424.
+* Hu, Z. and L. J. Hong. 2015. Robust simulation of stochastic systems with input uncertainties modeled by statistical divergences. Proceedings of the 2015 Winter Simulation Conference, pp. 643 - 654.
+* Fan, W. and L. J. Hong. 2014. A frequentist selection-of-the-best procedure without indifference zone. Proceedings of the 2014 Winter Simulation Conference, pp. 3737-3748.
+* Zhang,  X.,  L.  J.  Hong,  and  J.  Zhang.  2014.  Scaling  and  modeling  of  call  center  arrivals. Proceedings of the 2014 Winter Simulation Conference, pp. 476-485.
+* Fan, W., L. J. Hong, and X. Zhang. 2013. Robust selection of the best. Proceedings of the 2013 Winter Simulation Conference, pp. 868-876.
+* Fang, J. and L. J. Hong. 2013. Linking estimation and performance evaluation through simulation.
+Proceedings of the 2013 Winter Simulation Conference, pp. 766-777.
+* Hong, L. J. and G. Liu. 2011. Monte Carlo estimation of value-at-risk, conditional value-at-risk and their sensitivities. Proceedings of the 2011 Winter Simulation Conference, pp. 95-107. (invited advanced tutorial talk)
+* Luo,  J.  and  L.  J.  Hong.  2011.  Large-scale  ranking  and  selection  using  cloud     computing.
+Proceedings of the 2011 Winter Simulation Conference, pp. 4051-4061.
+* Sun, L., L. J. Hong and Z. Hu. 2011. Optimization via simulation using Gaussian process-based search. Proceedings of the 2011 Winter Simulation Conference, forthcoming.
+* Hu, Z., J. Cao, and L. J. Hong. 2010. Robust simulation of environmental policies. Proceedings of the 2010 Winter Simulation Conference, pp.1295-1305.
+* Hong, L. J. and B. L. Nelson. 2009. A brief introduction to optimization via simulation. Proceedings of the 2009 Winter Simulation Conference, pp.75-85. (invited introductory tutorial talk).
+* Hong, L. J. and S. Juneja. 2009. Estimating expectations of nonlinear functions. Proceedings of the 2009 Winter Simulation Conference, pp.1223-1236.
+* Sun, L. and L. J. Hong. 2009. The asymptotic expansions of value-at-risk and conditional value-at-risk. Proceedings of the 2009 Winter Simulation Conference, pp.415-422.
+* Liu, G. and L. J. Hong. 2008. Revisit of stochastic mesh method for pricing American options. Proceedings of the 2008 Winter Simulation Conference, pp.594-601.
+* Liu, G. and L. J. Hong. 2007. Kernel estimation of quantile sensitivity. Proceedings of the 2007 Winter Simulation Conference, pp. 941-948.
+* Chen, N. and L. J. Hong. 2007. Monte-Carlo method in financial engineering. Proceedings of the 2007 Winter Simulation Conference, pp. 919-931. (invited advanced tutorial talk)
+* Chang, K. H., L. J. Hong, and H. Wan. 2007. Stochastic trust region gradient-free method: A new response-surface-based algorithm for simulation optimization. Proceedings of the 2007 Winter Simulation Conference, pp. 346-354.
+* Wang, K. L., N. M. Tsang, H. W. Tsui, W. Y. Sze, L. J. Hong, and C. Y. Lee. 2006. Analyzing capacity competition among the airports in the Pearl River Delta. 2006 Annual Conference of Institute of Industrial Engineers (Hong Kong).
+* Hong, L. J. 2005. Discrete optimization via simulation using coordinate search. Proceedings of the 2005 Winter Simulation Conference, pp. 803-810.
+* Hong, L. J. and B. L. Nelson. 2003. An indifference-zone selection procedure with minimum switching and sequential sampling. Proceedings of the 2003 Winter Simulation Conference, pp. 474-480.
+* Hong, L. J., B. C. Shultes, and S. Anand. 2001. Robust evaluation of flatness and straightness tolerance using simulated annealing. Transactions of NAMRI/SME, 29:553-560.
 
-<!---
-<ol start="9">
-    <li><q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.</li>
-    <li><q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.</li>
-    <li><q>Priority Scheduling when Job Type Information is not Free</q>, with H. Ouyang.</li>
-    <li><q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.</li>
-</ol>
---->
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href=</q>{{author.googlescholar}}</q>>my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
