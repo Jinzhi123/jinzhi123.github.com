@@ -2,7 +2,7 @@
 layout: archive
 title: Funding and Awards
 permalink: /awards/
-author_profile: false
+author_profile: true
 ---
 
 ## Funding
