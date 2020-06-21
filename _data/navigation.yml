@@ -6,8 +6,6 @@ main:
   - title: "Ongoing Research"
     url: /Ongoing Research/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Group"
+    url: /Group/
 
-  - title: "Service"
-    url: /service/
