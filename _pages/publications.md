@@ -13,8 +13,8 @@ author_profile: true
 * **J4.** Fan, W., L. J. Hong, and X. Zhang. 2020. Distributionally Robust selection of the best. _Management Science_, 66:.190-208. [\[pdf\]](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3213)
 * **J5.** Hong, L. J. and G. Jiang. 2019. Offline simulation online application: A new framework of simulation-based decision making. _Asia-Pacific Journal of Operational Research_, 36:1-22. [\[pdf\]](https://www.worldscientific.com/doi/10.1142/S0217595919400153)
 * **J6.** Yun, X., L. J. Hong, G. Jiang, and S. Wang. 2019. On gamma estimation via matrix kriging. _Naval Research Logistics_, 66:393-410. [\[pdf\]](https://onlinelibrary.wiley.com/doi/10.1002/nav.21850)
-* J7. Shen, H., L. J. Hong, and X. Zhang. 2018. Enhancing stochastic kriging for queueing simulation with stylized models. _IISE Transactions_, 50:943–958. [\[pdf\]](https://www.tandfonline.com/doi/full/10.1080/24725854.2018.1465242)
-* J8. Fang, J. and L. J. Hong. 2018. A simulation-based estimation method for bias reduction. _IISE Transactions_, 50:14-26. [\[pdf\]](https://www.tandfonline.com/doi/full/10.1080/24725854.2017.1382751)
+* J7. Shen, H., L. J. Hong, and X. Zhang. 2018. Enhancing stochastic kriging for queueing simulation with stylized models. _IISE Transactions_, 50:943–958. [\[pdf\]](/files/papers/FangHong_revised.pdf)
+* J8. Fang, J. and L. J. Hong. 2018. A simulation-based estimation method for bias reduction. _IISE Transactions_, 50:14-26.
 * J9. Hong, L. J. and G. Jiang. 2017. Gradient and Hessian of joint probability functions with applications on chance constrained programs. _Journal of Operations Research Society of China_, 5:431-455.
 * J10. Hong, L. J., S. Juneja, and G. Liu. 2017. Kernel smoothing for nested estimation with application to portfolio risk measurement. _Operations Research_, 65:657-673. [\[pdf\]](/files/papers/HongJunejaLiuOR2017.pdf)
 * J11. Fan, W., L. J. Hong, and B. L. Nelson. 2016. Indifference-zone-free selection of the best. _Operations Research_, 64:1499-1514. [\[pdf\]](/files/papers/FanHongNelsonOR2016.pdf)
