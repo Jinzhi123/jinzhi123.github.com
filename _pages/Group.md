@@ -40,8 +40,8 @@ author_profile: true
 * Currently Assistant Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
 * ZHONG Ying, Ph.D., CityU, August 2019, with Hong Kong Ph.D. Fellowship.
 * Currently Associate Professor in School of Economics and Management at at University of Electronic Science and Technology of China.
-
-
+  
+  
 * YANG Yi, M.Phil., HKUST, August 2008.
 * Richard WONG Ka Ho, M.Phil., HKUST, August 2010.
 * YANG Tao, M.Phil., HKUST, January 2013.
