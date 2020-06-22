@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "L. Jeff Hong, Ph.D."
 title_separator          : "-"
-name                     : &name
-description              : &description "personal description"
+name                     : &name "Dr. L. Jeff Hong"
+description              : &description "Professor in Fudan University"
 url                      : https://jinzhi123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jinzhi123/jinzhi123.github.com"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "L. Jeff Hong"
   avatar           : "Jeff_Hong.jpg"
-  bio              : "Fudan Distinguished Professor<br>Fudan University"
+  bio              : "Distinguished Professor<br>Fudan University"
   employer         :
   location         :
   pubmed           :
