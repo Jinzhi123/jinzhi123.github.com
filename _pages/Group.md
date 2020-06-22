@@ -5,3 +5,49 @@ permalink: /Group/
 author_profile: true
 ---
 
+## Current Members
+
+* LI Wenhao, Ph.D. student at City University of Hong Kong, stared 2016
+* WANG Xiuxian, Ph.D. student at City University of Hong Kong, started 2016
+* KUANG Xianyu, Ph.D. student at City University of Hong Kong, started 2017
+* Dr. YUN Xin, Postdoc Fellow at Fudan-Princeton Postdoc Program, started 2018
+* WANG Tan, Ph.D. student in School of Data Science at Fudan University, started 2019
+* LI Zaile, Ph.D. student in School of Management at Fudan University, started 2019
+* LIN Nifei, Ph.D. student in School of Management at Fudan University, started 2019
+* WANG Shoudao, master's student in School of Data Science at Fudan University, started 2019
+* ZHUANG Zi, master's student in School of Data Science at Fudan University, started 2019
+* LI Jinzhi, Ph.D. student in School of Data Science at Fudan University, started 2020
+* ZHANG Qinkai, Ph.D. student in School of Management at Fudan University, started 2020
+
+## Past Graduates
+* LIU Guangwu, Ph.D., HKUST, June 2009.
+* Currently Professor in College of Business at City University of Hong Kong.
+* SUN Lihua, Ph.D., HKUST, August 2010.
+* Currently Associate Professor in School of Economics and Management at Tongji University.
+* HU Zhaolin, Ph.D., HKUST, August 2011.
+* Currently Professor in School of Economics and Management at Tongji University.
+* LUO Jun, Ph.D., HKUST, August 2013.
+* Currently Associate Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
+* FANG Jin, Ph.D., HKUST, August 2015, with Hong Kong Ph.D. Fellowship.
+* Currently Assistant Professor in School of Economics and Management at Shanghai Maritime University.
+* FAN Weiwei, Ph.D., HKUST, August 2015.
+* Currently Associate Professor in School of Economics and Management at at Tongji University.
+* JIANG Guangxin, Postdoc Fellow, CityU, February 2017.
+* Currently Professor in School of Management at Harbin Institute of Technology.
+* YUN Xin, Ph.D., CityU, June 2018.
+* Currently Postdoc Fellow in School of Data Science at at Fudan University.
+* SHEN Haihui, Ph.D., CityU, August 2018.
+* Currently Assistant Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
+* ZHONG Ying, Ph.D., CityU, August 2019, with Hong Kong Ph.D. Fellowship.
+* Currently Associate Professor in School of Economics and Management at at University of Electronic Science and Technology of China.
+
+
+* YANG Yi, M.Phil., HKUST, August 2008.
+* Richard WONG Ka Ho, M.Phil., HKUST, August 2010.
+* YANG Tao, M.Phil., HKUST, January 2013.
+* WU Yang, M.Phil., HKUST, August 2013.
+* XING Jicheng, M.Phil., HKUST, August 2014.
+* LU Hongchi, M.Phil., HKUST, August 2014.
+* YANG Huanhuan, M.Phil., HKUST, August 2015.
+* YU Le, M.Phil., HKUST, August 2015.
+
