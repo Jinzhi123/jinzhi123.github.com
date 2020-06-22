@@ -20,14 +20,10 @@ author_profile: true
 * ZHANG Qinkai, Ph.D. student in School of Management at Fudan University, started 2020
 
 ## Past Graduates
-* LIU Guangwu, Ph.D., HKUST, June 2009.
-* Currently Professor in College of Business at City University of Hong Kong.
-* SUN Lihua, Ph.D., HKUST, August 2010.
-* Currently Associate Professor in School of Economics and Management at Tongji University.
-* HU Zhaolin, Ph.D., HKUST, August 2011.
-* Currently Professor in School of Economics and Management at Tongji University.
-* LUO Jun, Ph.D., HKUST, August 2013.
-* Currently Associate Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
+* [LIU Guangwu](https://www.cb.cityu.edu.hk/staff/guanliu/), Ph.D., HKUST, June 2009.<br/>Currently Professor in College of Business at City University of Hong Kong.
+* [SUN Lihua](https://sem.tongji.edu.cn/semch/15051.html), Ph.D., HKUST, August 2010.<br/>Currently Associate Professor in School of Economics and Management at Tongji University.
+* [HU Zhaolin](https://sem.tongji.edu.cn/semch/15347.html), Ph.D., HKUST, August 2011.<br/>Currently Professor in School of Economics and Management at Tongji University.
+* [LUO Jun](http://www.acem.sjtu.edu.cn/en/faculty/luojun.html), Ph.D., HKUST, August 2013.<br/>Currently Associate Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
 * FANG Jin, Ph.D., HKUST, August 2015, with Hong Kong Ph.D. Fellowship.
 * Currently Assistant Professor in School of Economics and Management at Shanghai Maritime University.
 * FAN Weiwei, Ph.D., HKUST, August 2015.
