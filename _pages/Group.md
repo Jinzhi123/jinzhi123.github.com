@@ -24,18 +24,12 @@ author_profile: true
 * [SUN Lihua](https://sem.tongji.edu.cn/semch/15051.html), Ph.D., HKUST, August 2010.<br/>Currently Associate Professor in School of Economics and Management at Tongji University.
 * [HU Zhaolin](https://sem.tongji.edu.cn/semch/15347.html), Ph.D., HKUST, August 2011.<br/>Currently Professor in School of Economics and Management at Tongji University.
 * [LUO Jun](http://www.acem.sjtu.edu.cn/en/faculty/luojun.html), Ph.D., HKUST, August 2013.<br/>Currently Associate Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
-* FANG Jin, Ph.D., HKUST, August 2015, with Hong Kong Ph.D. Fellowship.
-* Currently Assistant Professor in School of Economics and Management at Shanghai Maritime University.
-* FAN Weiwei, Ph.D., HKUST, August 2015.
-* Currently Associate Professor in School of Economics and Management at at Tongji University.
-* JIANG Guangxin, Postdoc Fellow, CityU, February 2017.
-* Currently Professor in School of Management at Harbin Institute of Technology.
-* YUN Xin, Ph.D., CityU, June 2018.
-* Currently Postdoc Fellow in School of Data Science at at Fudan University.
-* SHEN Haihui, Ph.D., CityU, August 2018.
-* Currently Assistant Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
-* ZHONG Ying, Ph.D., CityU, August 2019, with Hong Kong Ph.D. Fellowship.
-* Currently Associate Professor in School of Economics and Management at at University of Electronic Science and Technology of China.
+* FANG Jin, Ph.D., HKUST, August 2015, with Hong Kong Ph.D. Fellowship.<br/>Currently Assistant Professor in School of Economics and Management at Shanghai Maritime University.
+* FAN Weiwei, Ph.D., HKUST, August 2015.<br/>Currently Associate Professor in School of Economics and Management at at Tongji University.
+* JIANG Guangxin, Postdoc Fellow, CityU, February 2017.<br/>Currently Professor in School of Management at Harbin Institute of Technology.
+* YUN Xin, Ph.D., CityU, June 2018.<br/>Currently Postdoc Fellow in School of Data Science at at Fudan University.
+* SHEN Haihui, Ph.D., CityU, August 2018.<br/>Currently Assistant Professor in Antai School of Economics and Management at Shanghai Jiaotong University.
+* ZHONG Ying, Ph.D., CityU, August 2019, with Hong Kong Ph.D. Fellowship.<br/>Currently Associate Professor in School of Economics and Management at at University of Electronic Science and Technology of China.
 <br/>
 <br/>
 
