@@ -45,9 +45,9 @@ author_profile: true
 ## We are family!
 <div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-1.jpg" width="80%"></div>
 <div align='center'><font size=30>Barbecue!</div>
-<img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-2.jpg" width="80%">
+<div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-2.jpg" width="80%"></div>
 <div align='center'><font size=30>Shining and Smiling</div>
-<img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201023.jpg" width="80%">
+<div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201023.jpg" width="80%"></div>
 <div align='center'><font size=30>As flame of fire we gather, as skyful of stars we scatter.</div>
-<img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201105.jpg" width="80%">
+<div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201105.jpg" width="80%"></div>
 <div align='center'><font size=30>Happy birthday for you!</div>
