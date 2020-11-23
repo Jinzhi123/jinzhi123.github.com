@@ -43,7 +43,7 @@ author_profile: true
 * YU Le, M.Phil., HKUST, August 2015.
 
 ## We are family!
-<img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-1.jpg" width="80%">
+<div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-1.jpg" width="80%"></div>
 <div align='center'><font size=30>Barbecue!</div>
 <img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-2.jpg" width="80%">
 <div align='center'><font size=30>Shining and Smiling</div>
