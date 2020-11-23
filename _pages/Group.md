@@ -44,7 +44,7 @@ author_profile: true
 
 ## We are family!
 <div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-1.jpg" width="80%"></div>
-<div align='center'>## Barbecue!</div>
+<div align='center'>## We are family!</div>
 <div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-2.jpg" width="80%"></div>
 <div align='center'><font size=30>Shining and Smiling</font></div>
 <div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201023.jpg" width="80%"></div>
