@@ -43,5 +43,5 @@ author_profile: true
 * YU Le, M.Phil., HKUST, August 2015.
 
 ## We are family!
-"20201006-1.jpg"
+![Barbecue](https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-1.jpg?raw=true)
 
