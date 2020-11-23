@@ -44,7 +44,7 @@ author_profile: true
 
 ## We are family!
 <img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-1.jpg" width="800" height="600">
-<center>Barbecue！</cenetr>
+<center>Barbecue！</center>
 ![Barbecue1006](https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201006-2.jpg?raw=true)
 ![Dinner1023](https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201023.jpg?raw=true)
 ![Birthday1105](https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201105.jpg?raw=true)
