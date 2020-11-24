@@ -44,11 +44,11 @@ author_profile: true
 
 ## We are family!
 <div align='center'><img src="https://i.loli.net/2020/11/24/iXWVvANhGEy2S8R.jpg" width="80%"></div>
-<div align='center'><font size=4>Barbecue!</font></div><br/>
+<div align='center'><font size=5>Barbecue!</font></div><br/>
 <div align='center'><img src="https://i.loli.net/2020/11/24/UNXoKh8WPQMckZC.jpg" width="80%"></div>
 <div align='center'><font size=5>Shining and Smiling</font></div><br/>
 <div align='center'><img src="https://i.loli.net/2020/11/24/pcOSXsjMfKxNZEY.jpg" width="80%"></div>
-<div align='center'><font size=4>As flame of fire we gather, as skyful of stars we scatter.</font></div><br/>
+<div align='center'><font size=5>As flame of fire we gather, as skyful of stars we scatter.</font></div><br/>
 <div align='center'><img src="https://i.loli.net/2020/11/24/nVTFefj9WmMr83J.jpg" width="80%"></div>
-<div align='center'><font size=6>Happy birthday for you!</font></div><br/>
+<div align='center'><font size=5>Happy birthday for you!</font></div><br/>
 
