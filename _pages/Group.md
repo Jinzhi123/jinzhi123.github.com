@@ -43,13 +43,13 @@ author_profile: true
 * YU Le, M.Phil., HKUST, August 2015.
 
 ## We are family!
-![20201006-1.jpg](https://i.loli.net/2020/11/24/iXWVvANhGEy2S8R.jpg)
-<div align='center'><img src="https://sm.ms/image/iXWVvANhGEy2S8R" width="80%"></div>
+![20201006-1.jpg]()
+<div align='center'><img src="https://i.loli.net/2020/11/24/iXWVvANhGEy2S8R.jpg" width="80%"></div>
 <div align='center'>Barbecue!</div><br/>
-<div align='center'><img src="https://sm.ms/image/UNXoKh8WPQMckZC" width="80%"></div>
+<div align='center'><img src="https://i.loli.net/2020/11/24/UNXoKh8WPQMckZC.jpg" width="80%"></div>
 <div align='center'>Shining and Smiling</div><br/>
 <div align='center'><img src="https://github.com/Jinzhi123/jinzhi123.github.com/blob/master/images/academic%20family/20201023.jpg" width="80%"></div>
 <div align='center'>As flame of fire we gather, as skyful of stars we scatter.</div><br/>
-<div align='center'><img src="https://sm.ms/image/nVTFefj9WmMr83J" width="80%"></div>
+<div align='center'><img src="https://i.loli.net/2020/11/24/nVTFefj9WmMr83J.jpg" width="80%"></div>
 <div align='center'>Happy birthday for you!</div><br/>
 
