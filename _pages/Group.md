@@ -17,7 +17,7 @@ author_profile: true
 * WANG Shoudao, master's student in School of Data Science at Fudan University, started 2019
 * ZHUANG Zi, master's student in School of Data Science at Fudan University, started 2019
 * LI Jinzhi, Ph.D. student in School of Data Science at Fudan University, started 2020
-* ZHANG Qinkai, Ph.D. student in School of Management at Fudan University, started 2020
+* ZHANG Qingkai, Ph.D. student in School of Management at Fudan University, started 2020
 
 ## Past Graduates
 * [LIU Guangwu](https://www.cb.cityu.edu.hk/staff/guanliu/), Ph.D., HKUST, June 2009.<br/>Currently Professor in College of Business at City University of Hong Kong.
@@ -42,7 +42,7 @@ author_profile: true
 * YANG Huanhuan, M.Phil., HKUST, August 2015.
 * YU Le, M.Phil., HKUST, August 2015.
 
-## We are family!
+## Group Photos
 <div align='center'><img src="https://i.loli.net/2020/11/24/iXWVvANhGEy2S8R.jpg" width="80%"></div>
 <div align='center'><font size=5>Barbecue!</font></div><br/>
 <div align='center'><img src="https://i.loli.net/2020/11/24/UNXoKh8WPQMckZC.jpg" width="80%"></div>
@@ -52,3 +52,8 @@ author_profile: true
 <div align='center'><img src="https://i.loli.net/2020/11/24/nVTFefj9WmMr83J.jpg" width="80%"></div>
 <div align='center'><font size=5>Happy birthday for you!</font></div><br/>
 
+## Group Study
+### 2020Fall Network Science
+[\[chap2\]](/files/study_group/2020Fall_Network_Science/chap2.pdf)
+[\[chap4\]](/files/study_group/2020Fall_Network_Science/chap4.pdf)
+[\[chap5\]](/files/study_group/2020Fall_Network_Science/chap5.pdf)
