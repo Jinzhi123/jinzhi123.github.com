@@ -54,6 +54,7 @@ author_profile: true
 
 ## Group Study
 ### 2020Fall Network Science
-[\[chap2\]](/files/study_group/2020Fall_Network_Science/chap2.pdf)
-[\[chap4\]](/files/study_group/2020Fall_Network_Science/chap4.pdf)
-[\[chap5\]](/files/study_group/2020Fall_Network_Science/chap5.pdf)
+* [\[chap2\]](/files/study_group/2020Fall_Network_Science/chap2.pdf)
+* [\[chap3\]](/files/study_group/2020Fall_Network_Science/chap3.pdf)
+* [\[chap4\]](/files/study_group/2020Fall_Network_Science/chap4.pdf)
+* [\[chap5\]](/files/study_group/2020Fall_Network_Science/chap5.pdf)
