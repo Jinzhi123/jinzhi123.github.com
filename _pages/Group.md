@@ -50,7 +50,7 @@ author_profile: true
 <div align='center'><img src="https://i.loli.net/2020/11/24/pcOSXsjMfKxNZEY.jpg" width="80%"></div>
 <div align='center'><font size=4>As flame of fire we gather, as skyful of stars we scatter.</font></div><br/>
 <div align='center'><img src="https://i.loli.net/2020/11/24/nVTFefj9WmMr83J.jpg" width="80%"></div>
-<div align='center'><font size=4>Happy birthday for you!</font></div><br/>
+<div align='center'><font size=4>Happy birthday to you!</font></div><br/>
 
 ## Group Study
 ### 2020Fall Network Science
