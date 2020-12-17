@@ -18,6 +18,8 @@ author_profile: true
 * ZHUANG Zi, master's student in School of Data Science at Fudan University, started 2019
 * LI Jinzhi, Ph.D. student in School of Data Science at Fudan University, started 2020
 * ZHANG Qingkai, Ph.D. student in School of Management at Fudan University, started 2020
+* Wang Yinsheng, Ph.D. student in School of Data Science at Fudan University, started 2020
+* Fu Han, master's student in School of Data Science at Fudan University, started 2020
 
 ## Past Graduates
 * [LIU Guangwu](https://www.cb.cityu.edu.hk/staff/guanliu/), Ph.D., HKUST, June 2009.<br/>Currently Professor in College of Business at City University of Hong Kong.
@@ -59,3 +61,4 @@ author_profile: true
 * [\[chap4\]](/files/study_group/2020Fall_Network_Science/chap4.pdf)
 * [\[chap5\]](/files/study_group/2020Fall_Network_Science/chap5.pdf)
 * [\[chap6\]](/files/study_group/2020Fall_Network_Science/chap6.pdf)
+* [\[chap7\]](/files/study_group/2020Fall_Network_Science/chap7.pdf)
