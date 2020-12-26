@@ -16,7 +16,7 @@ author_profile: true
 * LIN Nifei, Ph.D. student in School of Management at Fudan University, started 2019
 * WANG Shoudao, master's student in School of Data Science at Fudan University, started 2019
 * ZHUANG Zi, master's student in School of Data Science at Fudan University, started 2019
-* Dr. Huang Weihuan, Postdoc Fellow at Fudan University, started 2020
+* Dr. HUANG Weihuan, Postdoc Fellow at Fudan University, started 2020
 * LI Jinzhi, Ph.D. student in School of Data Science at Fudan University, started 2020
 * ZHANG Qingkai, Ph.D. student in School of Management at Fudan University, started 2020
 * Wang Yinsheng, Ph.D. student in School of Data Science at Fudan University, started 2020
